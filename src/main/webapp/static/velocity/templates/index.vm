@@ -97,7 +97,7 @@
 
   <!--  Scripts-->
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-  <script src="/webDemo/static/js/materialize.js"></script>
-  <script src="/webDemo/static/js/init.js"></script>
+  <script src="/kindleBook/static/js/materialize.js"></script>
+  <script src="/kindleBook/static/js/init.js"></script>
 
   </body>
