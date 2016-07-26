@@ -36,4 +36,9 @@ public class UsersController {
 
         return "index";
     }
+    @RequestMapping(value = "/all")
+    public String all() {
+
+        return "all";
+    }
 }

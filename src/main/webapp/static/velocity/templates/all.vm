@@ -1,0 +1,32 @@
+#set($layout="layout.vm")
+<body>
+<div class="row">
+    <div class="col s12 m3">
+                <li>
+                    <img src="/kindleBook/static/image/book1.jpg"> <!-- random image -->
+
+                </li>
+    </div>
+    <div class="col s12 m3">
+                <li>
+                    <img src="/kindleBook/static/image/book2.jpg"> <!-- random image -->
+
+                </li>
+    </div>
+    <div class="col s12 m3">
+                <li>
+                    <img src="/kindleBook/static/image/book3.jpg"> <!-- random image -->
+
+                </li>
+
+    </div>
+    <div class="col s12 m3">
+                <li>
+                    <img src="/kindleBook/static/image/book4.jpg"> <!-- random image -->
+
+                </li>
+    </div>
+</div>
+
+</div>
+</body>
