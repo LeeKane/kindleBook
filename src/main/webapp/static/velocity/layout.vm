@@ -7,8 +7,13 @@
 
     <!-- CSS  -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<<<<<<< HEAD
     <link href="/kindleBook/static/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
     <link href="/kindleBook/static/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+=======
+    <link href="/webDemo/static/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="/webDemo/static/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+>>>>>>> parent of 0176f53... index
 </head>
 <body>
     #parse('head.vm')
@@ -22,7 +27,9 @@
 
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 
-
+<script>if (!window.jQuery) {
+    document.write('<script src="/GitMining/static/bin/jquery-2.1.1.min.js"><\/script>');
+}
 
 </body>
 </html>
